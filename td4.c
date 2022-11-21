@@ -1,6 +1,6 @@
 
 #include <stdio.h>
-
+#include <stdlib.h>
 //EXERCICE 1
 typedef int Tab[10];
 
